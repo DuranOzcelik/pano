@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Pano.Api/Pano.Api.csproj" />
+  <Project Path="Pano.Tests/Pano.Tests.csproj" />
+</Solution>

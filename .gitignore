@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+*.user
+node_modules/
+frontend/dist/
+backend/Pano.Api/wwwroot/
+dist/
+.dev-arsiv/
+appsettings.Production.json
+
+# Yerel ve kuruma özel dosyalar: depoya girmez
+deploy/brand/
+docs/
+PRODUCT.md
